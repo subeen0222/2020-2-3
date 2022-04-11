@@ -1,0 +1,16 @@
+h1{
+  background-color: pink;
+  text-align: center;
+}
+div{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.center input[type="button"]{
+  text-align: center;
+}
+#night_day{
+  color:blue;
+  font-weight: bolder;
+  font-style: italic;
+}
